@@ -1,0 +1,8 @@
+Revision history for Perl extension LibEth.
+
+0.01  Tue Dec  1 01:49:41 1998
+	- original version; created by h2xs 1.18
+
+0.02 Sun Feb 28 10:29:14 1999
+	- additional interfaces added to calendar routines, some calendar
+	  routines also renamed
